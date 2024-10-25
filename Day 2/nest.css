@@ -1,0 +1,33 @@
+.pad{
+    margin-top: 30px;
+}
+#bakk {
+    background-image: url('images/bg1.jpg');
+    background-size: cover; 
+}
+.body{
+    background-image: url('images/bg1.jpg');
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center center; 
+    height: 100vh; 
+    width: 100%; 
+    margin: 0; 
+    padding: 0; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+.like {
+    margin: 10px;
+    background-color: rgb(43, 150, 226);
+}
+h1{
+    color: rgb(255, 255, 255);
+}
+p{
+    color: #99d8f1;
+}
+#ind{
+    background-image: url('images/bg1.jpg');
+    background-size: cover; 
+    padding: 0%;
+}
